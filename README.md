@@ -1,1 +1,6 @@
-"# ProgramesQuiz" 
+"# ProgramesQuiz"
+
+2020-08-24 K번째수 정렬
+
+2020-08-25 입국심사 이분탐색
+            
